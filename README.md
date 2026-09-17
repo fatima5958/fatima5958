@@ -1,77 +1,182 @@
-# Hi there, I'm Mateen Fatima 👋
+# Hi, I'm Mateen Fatima 👋
 
-### 💻 Final Year Software Engineering Student | University of Central Punjab
+### Software Engineering Graduate | SQA / SDET | Manual & Automation Testing
 
-I'm a passionate developer who loves building things for the web. Currently in my final year and actively looking for **internship opportunities**.
+Software Engineering graduate with project-based experience in software quality assurance, including manual testing, functional testing, regression testing, test case design, defect identification, debugging, and cross-browser testing.
 
----
-
-## 🚀 About Me
-
-- 🎓 BS Software Engineering @ UCP Lahore (2022–2026)
-- 🌱 Currently improving my skills in **React, Python & AI integration**
-- 💼 Open to **internship opportunities** — local & remote
-- 📍 Based in **Lahore, Pakistan**
-- 📧 Reach me at: codesaviour1@gmail.com
+Currently developing my skills in test automation, API testing, Selenium WebDriver, and AI automation.
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend & Tools:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+- 🎓 BS Software Engineering — University of Central Punjab, Lahore (2022–2026)
+- 🔎 Interested in SQA, SDET, QA Automation, and Software Testing
+- 🧪 Experience with manual, functional, regression, exploratory, and usability testing through software projects
+- 🔌 Familiar with basic API testing using Postman
+- 🌐 Familiar with Selenium WebDriver with Java through coursework
+- 🗄️ Basic SQL for data validation, joins, and subqueries
+- 🛠️ Git & GitHub for version control
+- 🌱 Currently developing skills in test automation, API testing, Selenium/Playwright, and AI automation
 
 ---
 
-## 📂 Featured Projects
+## 🧪 Software Testing Skills
 
-### 🏆 Task Manager Application
-> A full CRUD task management tool with due date tracking and efficient data structures.
-> Built with: JavaScript, HTML, CSS
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Usability Testing
+- Cross-Browser & Cross-Device Testing
+- Test Case Design
+- Test Scenario Writing
+- Requirement Analysis
+- Test Execution
+- Defect Reporting
+- Retesting
+- Black-Box Testing
+- Smoke & Sanity Testing
+- Bug Life Cycle
+- Severity & Priority Classification
+- Database Testing
+- SDLC
+- STLC
+- SQA/QC
 
-### ⚽ Football Club Website
-> A responsive club website with team lineup, match fixtures, and media gallery.
-> Built with: HTML, CSS, Bootstrap
+---
 
-### 🛍️ StationaryMart E-Commerce Website
-> A multi-page e-commerce site with home, products, cart, contact and about pages.
-> Built with: HTML, CSS
+## 🛠️ Testing Tools & Technologies
+
+- **Selenium WebDriver (Java)** — Working knowledge
+- **Postman** — Basic API testing
+- **SQL** — Basic data validation, joins, and subqueries
+- **Git / GitHub** — Version control
+- **Chrome DevTools** — Inspection and debugging
+
+---
+
+## 💻 Programming & Web Technologies
+
+**Languages**
+- Python
+- Java
+- JavaScript
+- C++
+
+**Web**
+- HTML
+- CSS
+
+**Concepts**
+- Object-Oriented Programming
+- Data Structures
+- Database Systems
+- Software Engineering Fundamentals
+
+---
+
+## 📂 QA & Software Testing Projects
+
+### 🏆 SpareShare — Surplus Goods Donation Platform
+
+MERN stack donation platform tested across authentication, role-based access control, and end-to-end donation workflows.
+
+- Designed and executed functional and regression test cases
+- Tested JWT-based authentication and role-based access control
+- Performed basic API testing using Postman
+- Conducted database testing on MongoDB collections
+- Identified, tracked, and retested defects
+
+**Technologies:** MERN Stack, Postman, MongoDB, JavaScript
+
+---
+
+### 🛍️ MA Traders — E-Commerce Web Application
+
+Multi-page e-commerce application tested before delivery.
+
+- Performed functional and usability testing
+- Tested cart and product-filtering functionality
+- Tested WhatsApp-based checkout flows
+- Validated admin-route functionality
+- Cross-checked checkout data accuracy
+
+**Technologies:** React, JavaScript, Tailwind CSS
+
+---
+
+### 🔍 Live Shopify Store — Defect Investigation
+
+- Performed exploratory testing
+- Identified a CSS z-index/stacking conflict affecting the WhatsApp chat widget
+- Reported the defect
+- Retested after the fix
+
+---
+
+### 🌐 Portfolio Website — NFIT Solutions
+
+- Executed cross-browser and cross-device testing
+- Tested Chrome, Safari, and mobile experiences
+- Tested animated UI components and interactive elements
+- Identified and retested UI defects
+
+---
+
+### 📋 CRUD Task Manager
+
+- Designed and executed functional test cases
+- Tested due-date tracking
+- Tested priority sorting
+- Tested status updates
+- Verified functionality against requirements
 
 ---
 
 ## 📜 Certifications
 
-- 🐍 Python — Programiz Pro (2025)
-- 🐍 Python — Coursera, University of Pennsylvania
-- 🌐 Responsive Web Design — freeCodeCamp
+- Python Programming — Programiz Pro
+- Python Programming — Coursera, University of Pennsylvania
+- Responsive Web Design — freeCodeCamp
+- Python Programming Internship Certificate — Apexify Technologies
+- NSCT (National Skills Competency Test) — Passed, 2026
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatima5958&show_icons=true&theme=default)
+### Programming Intern — Apexify Technologies
+
+- Built and debugged Python programs
+- Systematically isolated logic errors
+- Verified fixes through repeated testing
+- Completed the internship with a certificate
+
+### Content Researcher & Writer — Freelance
+
+- Researched, wrote, and fact-checked content
+- Managed deadlines independently
+- Communicated with clients across time zones
 
 ---
 
-## 🤝 Let's Connect!
+## 🌱 Currently Developing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codesaviour1@gmail.com)
+- Test Automation
+- API Testing
+- Selenium / Playwright
+- AI Automation
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/mateenfatima
+- 📧 Email: mateenfatima5958@gmail.com
+
+---
+
+### 🎯 Career Focus
+
+I am currently seeking **entry-level SQA, SDET, QA Engineer, Software Tester, and QA Automation opportunities** where I can apply my software engineering foundation and continue developing practical automation and testing skills.
