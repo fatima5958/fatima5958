@@ -2,141 +2,72 @@
 
 # Mateen Fatima
 
-### Software Engineering Graduate · Quality Assurance & Software Development
+### Software Engineering Graduate (2026) · QA / SDET Trainee · Software Development
 
-**Testing thoughtfully. Building useful products. Learning continuously.**
+**I build web products, examine how they behave, and document how to test them.**
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 BS Software Engineering, 2026 &nbsp;·&nbsp; 💼 Open to graduate roles
+📍 Lahore, Pakistan · 🎓 BS Software Engineering, University of Central Punjab
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateenfatima)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateenfatima5958@gmail.com)
-[![Projects](https://img.shields.io/badge/GitHub-Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima5958?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateenfatima5958@gmail.com)
+[![Repositories](https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima5958?tab=repositories)
 
 </div>
 
 ---
 
-## A little about me
+## About me
 
-I'm a **2026 Software Engineering graduate** who enjoys both sides of building software: creating features and figuring out how to make them reliable.
+I'm a 2026 Software Engineering graduate interested in **software quality assurance, reliable web applications, and practical AI engineering**. My work includes React/TypeScript interfaces, full-stack product prototypes, manual test planning, debugging, and clear project documentation.
 
-My project experience spans **React/TypeScript interfaces, full-stack apps, manual QA, test case design, regression testing, and debugging**. I'm developing deeper skills in **Selenium (Java), Postman API testing, SQL, and test automation**.
+I am building my automation skills in **Selenium (Java), Postman API testing, Python, and SQL**, while applying for entry-level QA/SQA, SDET trainee, graduate software engineering, and junior frontend roles.
 
-> **Career focus:** Junior SQA / QA Engineer · SDET Trainee · Graduate Software Engineer · Junior React Developer
+## Featured work
 
-## Toolkit
+| Project | Engineering focus | Source & status |
+| --- | --- | --- |
+| **[DreamStore 🌸](https://github.com/fatima5958/Dream-Store)** | Digital-product storefront; seller/buyer workflows, payment review, access control and downloadable products. React, TypeScript, Express, Firebase, Supabase. | **Public showcase repository.** Active development may be in a separate private repository; public snapshot does not guarantee production readiness. |
+| **[PENORA ✍️](https://github.com/fatima5958/PENORA_BLOCKCHAIN)** | Creator publishing, communities, profile workflows, Supabase-backed app features and token-related experiments. Astro, React, TypeScript. | **Public development prototype.** Not a live cryptocurrency or financial product. |
+| **[QA Test Execution Checker 🧪](https://github.com/fatima5958/qa-test-execution-checker)** | Python CLI practice for test cases, pass/fail counts and simple reporting. | **Public learning project.** Simulated results, *not* Selenium/browser automation. [Setup and limitations](https://github.com/fatima5958/qa-test-execution-checker#readme). |
+| **[SpareShare ♻️](https://github.com/fatima5958/SpareShare-Frontend)** | Final-year donation-platform case study: user workflows, frontend/backend separation and QA considerations. | **Public project overview only.** Application source is not published in the linked public repository. |
 
-**Quality engineering**
+[ML notebooks & learning notes](https://github.com/fatima5958/ml-journey-2026) · [Explore all public repositories](https://github.com/fatima5958?tab=repositories)
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0F766E?style=flat-square)
-![Test Design](https://img.shields.io/badge/Test_Case_Design-0F766E?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression_Testing-0F766E?style=flat-square)
-![Bug Reports](https://img.shields.io/badge/Bug_Reporting-0F766E?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Learning-43B02A?style=flat-square&logo=selenium&logoColor=white)
+## Technical toolkit
 
-**Development**
+**QA & testing:** Test case design · Manual and regression testing · Bug reporting · API testing with Postman · Test documentation · Selenium (learning)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Fundamentals-475569?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Development:** Python · JavaScript · TypeScript · React · Tailwind CSS · Node.js · SQL fundamentals · Git/GitHub
 
-## Selected work
+**Current focus:** Reproducible bug reports, API validation, test automation fundamentals and dependable application workflows.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌸 [DreamStore](https://github.com/fatima5958/dreamstore)
-
-**Digital creator storefront · Full-stack product**
-
-Multi-vendor storefront experience with product listings, seller/buyer workflows, manual payment verification, private file delivery, and role-based access.
-
-**React · TypeScript · Express · Firebase · Supabase**
-
-[Explore project & QA notes →](https://github.com/fatima5958/dreamstore#readme)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [QA Execution Checker](https://github.com/fatima5958/qa-test-execution-checker)
-
-**Python learning project · QA fundamentals**
-
-Interactive test-run simulation with result tracking, pass/fail percentages, browser-name checks, and a console report.
-
-**Python · Test reporting concepts**
-
-[Read setup & limitations →](https://github.com/fatima5958/qa-test-execution-checker#readme)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✍️ [PENORA](https://github.com/fatima5958/PENORA_BLOCKCHAIN)
-
-**Social publishing platform · Work in progress**
-
-Creator profiles, publishing workflows, communities, and experimental token-related architecture.
-
-**Astro · React · TypeScript · Supabase**
-
-[Explore development project →](https://github.com/fatima5958/PENORA_BLOCKCHAIN#readme)
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ [SpareShare](https://github.com/fatima5958/SpareShare_frontend)
-
-**Donation platform · Final-year project**
-
-Full-stack product for donation workflows. Explored authentication, role-based features, API behavior, and end-to-end user journeys.
-
-**MERN · Manual testing · Postman**
-
-[Frontend →](https://github.com/fatima5958/SpareShare_frontend) · [Backend →](https://github.com/fatima5958/SpareShare_backend)
-
-</td>
-</tr>
-</table>
-
-**More work:** [ML learning notebooks](https://github.com/fatima5958/ml-journey-2026) · [MA Traders](https://github.com/fatima5958/matraders) · [All repositories](https://github.com/fatima5958?tab=repositories)
-
-## How I think about quality
+## How I approach testing
 
 ```text
-Requirements → Test scenarios → Test cases → Execute → Report bugs → Retest → Regression
+Understand requirements
+       ↓
+Identify risks & edge cases
+       ↓
+Design and execute test cases
+       ↓
+Record actual vs. expected results
+       ↓
+Report defects → retest fixes → regression check
 ```
 
-I care about clear reproduction steps, realistic edge cases, and communication that helps teams fix problems faster.
+I value **clear reproduction steps, honest test results, and concise documentation**. For learning projects, I label simulated behavior as simulated instead of claiming production test coverage.
 
-**Current learning goals:** stronger API checks, Selenium/WebDriver patterns, automation design, and practical AI engineering.
+## Background
 
-<details>
-<summary><b>Education & professional background</b></summary>
-
-- **BS Software Engineering** — University of Central Punjab, Lahore (2026)
-- **Programming Intern**, Apexify Technologies — Python practice, debugging, and validation
-- Project-based QA experience with web apps and user workflows
-- Coursework and self-study: SDLC/STLC, OOP, databases, software testing, web engineering
-
-</details>
+- **BS Software Engineering** — University of Central Punjab, Lahore (2026).
+- **Programming internship — Apexify Technologies**: Python practice, debugging and validation tasks.
+- **Project experience**: web applications, frontend/backend integration, manual QA and product workflows.
 
 ---
 
 <div align="center">
 
-### Let's build something dependable.
+**Open to:** Junior SQA / QA Engineer · SDET Trainee · Graduate Software Engineer · Junior Frontend Developer
 
-[LinkedIn](https://linkedin.com/in/mateenfatima) · [Email](mailto:mateenfatima5958@gmail.com) · [GitHub repositories](https://github.com/fatima5958?tab=repositories)
-
-*Available for graduate and junior QA / software engineering opportunities in Lahore and suitable remote roles.*
+[Email me](mailto:mateenfatima5958@gmail.com) · [Review my public projects](https://github.com/fatima5958?tab=repositories)
 
 </div>
